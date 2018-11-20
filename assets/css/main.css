@@ -3952,7 +3952,8 @@
 			#banner input[type="button"].special,
 			#banner button.special,
 			#banner .button.special {
-				background-color:red;
+				background-color:transparent;
+				border:2px solid white;
 				box-shadow: none;
 				color: #fff !important;
 			}
